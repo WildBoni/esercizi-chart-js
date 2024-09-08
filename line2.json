@@ -1,0 +1,15 @@
+{
+  "data": {
+    "labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "datasets": [
+      {
+        "name": "Product A",
+        "prices": [1200, 1500, 1800, 1700, 1600, 1900, 2200, 2100, 2400, 2300, 2500, 2700]
+      },
+      {
+        "name": "Product B",
+        "prices": [1000, 1300, 1700, 1600, 1500, 1800, 2100, 2000, 2300, 2200, 2400, 2600]
+      }
+    ]
+  }
+}
