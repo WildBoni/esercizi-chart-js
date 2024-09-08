@@ -1,0 +1,15 @@
+{
+  "data": {
+    "labels": ["Strength", "Agility", "Stamina", "Intelligence", "Speed"],
+    "datasets": [
+      {
+        "name": "Player A",
+        "values": [8, 7, 6, 9, 8]
+      },
+      {
+        "name": "Player B",
+        "values": [5, 9, 7, 6, 8]
+      }
+    ]
+  }
+}
