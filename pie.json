@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "category": "Electronics",
+      "sales": 350000,
+      "description": "Sales from electronic devices and gadgets"
+    },
+    {
+      "category": "Clothing",
+      "sales": 250000,
+      "description": "Sales from apparel and fashion items"
+    },
+    {
+      "category": "Home & Kitchen",
+      "sales": 200000,
+      "description": "Sales from home appliances and kitchenware"
+    },
+    {
+      "category": "Health & Beauty",
+      "sales": 100000,
+      "description": "Sales from personal care and beauty products"
+    },
+    {
+      "category": "Toys & Games",
+      "sales": 50000,
+      "description": "Sales from toys, games, and educational products"
+    },
+    {
+      "category": "Others",
+      "sales": 50000,
+      "description": "Sales from miscellaneous categories"
+    }
+  ]
+}
