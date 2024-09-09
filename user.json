@@ -1,0 +1,7 @@
+{
+"name: "davide",
+"surname": "bonifacio",
+"age": 39,
+"isDeveloper": true,
+"hobbies": ['MTB', 'Trekking', 'Climbing']
+}
