@@ -1,0 +1,68 @@
+{
+  "standings": [
+    {
+      "position": 1,
+      "driver": "Verstappen",
+      "team": "Red Bull",
+      "points": 303,
+      "wins": 7,
+      "podiums": 10
+    },
+    {
+      "position": 2,
+      "driver": "Norris",
+      "team": "McLaren",
+      "points": 241,
+      "wins": 2,
+      "podiums": 10
+    },
+    {
+      "position": 3,
+      "driver": "Leclerc",
+      "team": "Ferrari",
+      "points": 217,
+      "wins": 2,
+      "podiums": 8
+    },
+    {
+      "position": 4,
+      "driver": "Piastri",
+      "team": "McLaren",
+      "points": 197,
+      "wins": 1,
+      "podiums": 5
+    },
+    {
+      "position": 5,
+      "driver": "Sainz",
+      "team": "Ferrari",
+      "points": 184,
+      "wins": 1,
+      "podiums": 5
+    },
+    {
+      "position": 6,
+      "driver": "Hamilton",
+      "team": "Mercedes",
+      "points": 164,
+      "wins": 2,
+      "podiums": 4
+    },
+    {
+      "position": 7,
+      "driver": "Perez",
+      "team": "Red Bull",
+      "points": 143,
+      "wins": 0,
+      "podiums": 4
+    },
+    {
+      "position": 8,
+      "driver": "Russell",
+      "team": "Mercedes",
+      "points": 128,
+      "wins": 1,
+      "podiums": 2
+    }
+  ]
+}
