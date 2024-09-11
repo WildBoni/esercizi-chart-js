@@ -4,11 +4,11 @@
     "datasets": [
       {
         "name": "Player A",
-        "values": [8, 7, 6, 9, 8]
+        "values": [85, 72, 65, 55, 60]
       },
       {
         "name": "Player B",
-        "values": [5, 9, 7, 6, 8]
+        "values": [59, 90, 78, 82, 82]
       }
     ]
   }
